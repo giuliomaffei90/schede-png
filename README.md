@@ -27,3 +27,6 @@ sui due sistemi basta aggiungere un font libero (es. EB Garamond) alla lista `_F
 ## Dati
 I personaggi salvati sono in `~/SchedePNG/` (un `.json` più l'immagine per ciascuno):
 copiando quella cartella si spostano su un altro computer.
+
+## Licenza
+MIT — vedi [LICENSE](LICENSE).
